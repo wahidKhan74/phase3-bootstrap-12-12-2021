@@ -1,0 +1,25 @@
+.alert {
+    margin-bottom: 0 !important;
+}
+.bg-dark {
+    background-color: #034689!important;
+}
+
+.container-fluid {
+    background-color: aqua;
+}
+div {
+    
+}
+.bg-One {
+    background-color: lightblue;
+    padding: 20px;
+}
+.bg-Two {
+    background-color: lightcoral;
+    padding: 20px;
+}
+.bg-Three {
+    background-color: lightgreen;
+    padding: 20px;
+}
